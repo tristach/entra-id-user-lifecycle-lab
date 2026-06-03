@@ -25,7 +25,8 @@ This project demonstrates Microsoft Entra ID user lifecycle administration.
 
 Screenshots showing:
 
-1. User creation
+1. User creation<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0f1b47bf-7401-4813-97b4-96d4be649282" />
+
 2. Group assignment
 3. Role assignment
 4. Session revocation
