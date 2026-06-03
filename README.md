@@ -4,6 +4,10 @@
 
 This project demonstrates Microsoft Entra ID user lifecycle administration.
 
+## Scenario:
+
+A new Help Desk employee (John Snow) joins the organization. The user account is created, assigned to the IT-HelpDesk security group, granted the Helpdesk Administrator role, and later deprovisioned following standard identity lifecycle procedures.
+
 ## Skills Demonstrated
 
 - Create users
